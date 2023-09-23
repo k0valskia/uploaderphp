@@ -1,9 +1,5 @@
 <?php
-/**
-	Author tikushaxor
-	Kalau mau recode, silahkan asal sertakan nama author
-	Recode ga menyertakan nama author? Koe ancene Lonthe
-*/
+
 error_reporting(0);
 echo "<html>
 <head>
